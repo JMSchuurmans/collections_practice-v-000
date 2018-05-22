@@ -34,3 +34,9 @@ def kesha_maker(names)
     n.join
   end
 end
+
+def find_a(array)
+  array.detect do |e|
+    e = a
+  end
+end
