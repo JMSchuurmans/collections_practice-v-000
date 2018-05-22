@@ -37,4 +37,5 @@ end
 
 def find_a(array)
   array.detect do |a|
+  end
 end
