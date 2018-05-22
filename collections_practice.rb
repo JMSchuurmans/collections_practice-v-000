@@ -36,6 +36,6 @@ def kesha_maker(names)
 end
 
 def find_a(array)
-  array.detect do |a|
+  array.find { |x| x = "a" }
   end
 end
