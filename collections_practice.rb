@@ -28,8 +28,5 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  array.each_char { |3|
-    puts $
-  }
-  end
+
 end
