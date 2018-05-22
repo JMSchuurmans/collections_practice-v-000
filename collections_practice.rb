@@ -37,5 +37,4 @@ end
 
 def find_a(array)
   array.find { |x| x = "a" }
-  end
 end
