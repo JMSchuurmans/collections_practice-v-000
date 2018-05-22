@@ -27,8 +27,6 @@ def reverse_array(array)
   array.reverse
 end
 
-def kesha_maker(name)
-  name = "#{name}".split("")
-  name[2] = "$"
-  name.join
+def kesha_maker
+  
 end
